@@ -1,0 +1,22 @@
+{
+  "name": "vue-js-concepts",
+  "version": "1.0.0",
+  "description": "Learning concepts on Vue.Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyaki-Roy/vue-js-concepts.git"
+  },
+  "author": "Satyaki Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satyaki-Roy/vue-js-concepts/issues"
+  },
+  "homepage": "https://github.com/Satyaki-Roy/vue-js-concepts#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
